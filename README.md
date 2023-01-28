@@ -20,9 +20,9 @@
 * Daedalus specific instructions (changes from main spec):
 
 We *will not* be using Gradescope for our labs. For this lab, for each
-task (A through D) create the program files ~smaller.cpp~,
-~smaller3.cpp~, ~leap.cpp~, and ~month.cpp~. Each should work as
-specified in the main lab page. Add all four ~.cpp~ files to the
+task (A through D) create the program files smaller.cpp,
+smaller3.cpp, leap.cpp, and month.cpp. Each should work as
+specified in the main lab page. Add all four .cpp files to the
 assignment repository, commit and push them. Do not add or push any
 other files to to your repository.
 
